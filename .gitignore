@@ -1,0 +1,5 @@
+*.log
+old/
+bin/
+build/
+*.pyc
